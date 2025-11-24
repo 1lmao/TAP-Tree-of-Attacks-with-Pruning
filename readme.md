@@ -1,7 +1,7 @@
 ## FIXES
-GPU Optimization - conversers.py
-Type Issue for score - loggers.py
-For prunned prompt append empty string - common.py
+- GPU Optimization - conversers.py
+- Type Issue for score - loggers.py
+- For prunned prompt append empty string - common.py
 
 ## System Configuration
 
