@@ -1,3 +1,14 @@
+## FIXES
+GPU Optimization - conversers.py
+Type Issue for score - loggers.py
+For prunned prompt append empty string - common.py
+
+## System Configuration
+
+- **OS:** Linux Mint
+- **GPU:** 2 x NVIDIA RTX 3090 (24GB)
+- **RAM:** 32 GB
+
 # TAP: A Query-Efficient Method for Jailbreaking Black-Box LLMs
 [![arXiv](https://img.shields.io/badge/arXiv-2312.02119-b31b1b.svg)](https://arxiv.org/abs/2312.02119)  
 
